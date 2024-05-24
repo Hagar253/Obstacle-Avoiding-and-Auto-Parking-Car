@@ -1,6 +1,5 @@
 # Obstacle-Avoiding-and-Auto-Parking-Car
 
-
 Meet ✨ Za2zoo2a ✨
 
 I'm happy to share that for our embedded course final project, our team has successfully created an autonomous car that can navigate its environment, avoid obstacles, and park itself.
